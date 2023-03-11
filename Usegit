@@ -1,5 +1,5 @@
 public class HelloWorldDepend {
 public static void main(String[] args) {
-System.out.println("Depend  hi  Project");
+System.out.println("Depend  hi  ini Project");
 }
 }
